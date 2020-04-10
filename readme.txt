@@ -5,3 +5,4 @@ git tracks changes
 shx first
 creating a new branch is quick;
 aa
+creating a new branch is quick AND simple.
