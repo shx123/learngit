@@ -6,5 +6,12 @@ shx first
 creating a new branch is quick;
 
 creating a new branch is quick and simple.
+<<<<<<< HEAD
 
 add dev branch
+=======
+add dev
+add aa
+
+git is a free software.
+>>>>>>> 7cf5b98... fix bug 101
