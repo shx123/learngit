@@ -6,5 +6,9 @@ shx first
 creating a new branch is quick;
 
 creating a new branch is quick and simple.
+<<<<<<< HEAD
 
 local
+=======
+a
+>>>>>>> 96280eacbf6ae7d500dd8f165ac5536eceda83e9
